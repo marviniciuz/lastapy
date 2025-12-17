@@ -1,0 +1,23 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+env/
+.venv/
+
+*.log
+.DS_Store
+Thumbs.db
+
+
+geckodriver.log
+chromedriver.log
+
+
+biblioteca_mosaicos/
+
+# --- IDEs (Opcional, mas recomendado) ---
+.vscode/
+.idea/
